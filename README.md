@@ -24,14 +24,10 @@ I've been collaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarel
   [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)]()
 
-<br>
-
 ## 🛠 My OS
 
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows/windows-11)
-  
-<br>
 
 ## 🚀 My Github Stats:
 
