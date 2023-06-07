@@ -3,11 +3,10 @@
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-emilio-pérez-lópez-590725211/)
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaapeerez)
 
-
 I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
 
 I've been collaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021. 
-
+In 2022(https://salmorejo.tech/2022/) and 2023(https://salmorejo.tech/2023/) I was part of the organization team of Salmorejo Tech, one of the most important conferences in the technology sector in Cordoba. We will have to be attentive to see what the following ones have in store for us...😉🍅
 <br>
 
 ## 🛠 Technologies, tools and languages
