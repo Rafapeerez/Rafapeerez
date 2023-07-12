@@ -19,14 +19,14 @@ In 2022(https://salmorejo.tech/2022/) and 2023(https://salmorejo.tech/2023/) I w
 
 
   <br>
-    <br>
+  
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)]()
-
+  [![Flutter](https://img.shields.io/badge/Flutter-00aae4?style=for-the-badge&logo=Flutter&logoColor=dark)]()
 
 ## 🛠 My OS
 
