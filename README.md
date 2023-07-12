@@ -26,7 +26,7 @@ In 2022(https://salmorejo.tech/2022/) and 2023(https://salmorejo.tech/2023/) I w
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)]()
-  [![Flutter](https://img.shields.io/badge/Flutter-00aae4?style=for-the-badge&logo=Flutter&logoColor=dark)]()
+
 
 ## 🛠 My OS
 
