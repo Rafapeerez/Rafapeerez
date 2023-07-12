@@ -14,8 +14,8 @@ In 2022(https://salmorejo.tech/2022/) and 2023(https://salmorejo.tech/2023/) I w
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-f0e800?style=for-the-badge&logo=JavaScript&logoColor=black)](https://https://www.javascript.com)
-  [![Dart](https://img.shields.io/badge/Dart-0061a9?style=for-the-badge&logo=Dart&logoColor=blue)]
+  [![JavaScript](https://img.shields.io/badge/JavaScript-f0e800?style=for-the-badge&logo=JavaScript&logoColor=black)]()
+  [![Dart](https://img.shields.io/badge/Dart-0061a9?style=for-the-badge&logo=Dart&logoColor=blue)]()
   
   <br>
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
@@ -24,7 +24,7 @@ In 2022(https://salmorejo.tech/2022/) and 2023(https://salmorejo.tech/2023/) I w
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)]()
-  [![Flutter](https://img.shields.io/badge/Flutter-00aae4?style=for-the-badge&logo=Flutter&logoColor=dark)]
+  [![Flutter](https://img.shields.io/badge/Flutter-00aae4?style=for-the-badge&logo=Flutter&logoColor=dark)]()
 
 ## 🛠 My OS
 
