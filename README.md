@@ -19,6 +19,7 @@ In 2022(https://salmorejo.tech/2022/) and 2023(https://salmorejo.tech/2023/) I w
 
 
   <br>
+    <br>
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
